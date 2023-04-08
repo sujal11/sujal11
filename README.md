@@ -20,3 +20,4 @@
 
 # Languages Used
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sujal11&theme=radical)
+[![Sujal's GitHub | Languages Over Time](https://stats.quine.sh/Sujal/languages-over-time?theme=dark)](https://quine.sh)
